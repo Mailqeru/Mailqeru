@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ismail</h1>
-Welcome to my Github ePortfolio! I'm passionate about your innovative use of technology in solving real-world problems, and I find immense satisfaction in staying at the forefront of technological advancements to contribute meaningfully to our ever-evolving digital landscape.
+Welcome to my Github ePortfolio!
+Passionate about computer science, I love diving into the fascinating world of algorithms and artificial intelligence. Exploring the endless possibilities, I'm on a journey to bring tech ideas to life and make a positive impact on our ever-evolving digital landscape. Let's chat about the exciting possibilities in the world of computer science!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mailqeru&label=Profile%20views&color=0e75b6&style=flat" alt="mailqeru" /> </p>
 
