@@ -33,7 +33,21 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
 * SPM : 2A+ 2A 1B+ 2B 1C+ 1C
 
 ## Co-curriculum / Achievements  
-* 
+* Second Place Creative Video Competition (Integrity KPM) - 2022  
+* Jamboree Matriculation - 2022
+* Head Prefect - 2021
+* Kawad Kaki Online Kaspa - 2021
+* Pengerusi Kelab Bahasa Melayu - 2021
+* Anugerah Tokoh Sahsiah Terpuji - 2021
+* Student Leaders Board - 2020
+* Kawad Kaki dan Perkhemahan Koreksional Peringkat Negeri - 2019
+* Kawad Kaki dan Perkhemahan Koreksional Peringkat Kebangsaan - 2018
+* Kawad Kaki dan Sentap Koreksional Peringkat Negeri - 2018
+* Pertandingan Mewarna Kreatif - 2017
+* Pertandingan Sajak - 2017  
+
+## Skills  
+
 
 ![student-mgmt](https://github.com/Mailqeru/Mailqeru/assets/148432122/dc9d46a4-9fff-40b2-a44a-387b554a442a)
 
@@ -58,6 +72,4 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mailqeru&" alt="mailqeru" /></p>
 
-## Projects
 
-- [Projects 1: 
