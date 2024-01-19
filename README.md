@@ -24,7 +24,8 @@ UNIVERSITI TEKNOLOGI MALAYSIA
 * CGPA : -
 
 2022 - 2023  
-JOHOR MATRICULATION COLLEGE 
+JOHOR MATRICULATION COLLEGE  
+![kmj](https://github.com/Mailqeru/Mailqeru/assets/148432122/de7d0b31-74f2-4166-bee4-60f8f96f606f)
 * Science (Module 2)  
 * CGPA : 3.92
 
