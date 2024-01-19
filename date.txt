@@ -1,0 +1,24 @@
+name: Update Current Date
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Update Date
+        run: |
+          echo "CURRENT_DATE=$(date +'%Y-%m-%d %H:%M:%S')" > date.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add date.txt
+          git commit -m "Update current date [skip ci]"
+          git push
