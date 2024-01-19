@@ -31,6 +31,7 @@ JOHOR MATRICULATION COLLEGE
 
 2017 - 2021  
 SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG  
+![logo ss](https://github.com/Mailqeru/Mailqeru/assets/148432122/08a0ffcf-e55d-4254-a08c-8ab763c313ce)
 * Science Stream 
 * SPM : 2A+ 2A 1B+ 2B 1C+ 1C
 
