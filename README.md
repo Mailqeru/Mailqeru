@@ -12,6 +12,7 @@ Passionate about computer science, I love diving into the fascinating world of a
  Date of Birth : 23/08/2004  
  Gender : Male  
  Nationality : Malaysia  
+## Education
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mailqeru&label=Profile%20views&color=0e75b6&style=flat" alt="mailqeru" /> </p>
 
