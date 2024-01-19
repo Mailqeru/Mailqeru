@@ -18,7 +18,8 @@ Passionate about computer science, I love diving into the fascinating world of a
  
 ## Education
 2023 - 2027  
-UNIVERSITI TEKNOLOGI MALAYSIA  ![download](https://github.com/Mailqeru/Mailqeru/assets/148432122/d0a7b9fa-193e-448c-9216-370edc1fd834)
+UNIVERSITI TEKNOLOGI MALAYSIA  
+![download](https://github.com/Mailqeru/Mailqeru/assets/148432122/d0a7b9fa-193e-448c-9216-370edc1fd834)
 * Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours
 * CGPA : -
 
