@@ -15,9 +15,10 @@ Passionate about computer science, I love diving into the fascinating world of a
  Nationality : Malaysia  
  
 ## Education
-2023 - 2027 <p align="center">
-  Your centered text goes here.
+2023 - 2027 <p align="right">
+  My University Name
 </p>
+
 
 
 
