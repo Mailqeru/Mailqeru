@@ -15,7 +15,7 @@ Passionate about computer science, I love diving into the fascinating world of a
  Nationality : Malaysia  
  
 ## Education
-2023 - 2027 <p align="right"> MY </p>
+<p align="left"> 2023 - 2027 </p> <p align="right"> MY </p>
 
 
 
