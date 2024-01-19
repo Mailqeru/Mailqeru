@@ -15,12 +15,12 @@ Passionate about computer science, I love diving into the fascinating world of a
  Nationality : Malaysia  
  
 ## Education
-2023 - 2027 ------------------> Universiti Teknologi Malaysia
+2023 - 2027 ------------------> Universiti Teknologi Malaysia  
                                 * BACHELOR OF COMPUTER SCIENCE (GRAPHICS AND MULTIMEDIA SOFTWARE) WITH HONOURS  
                                 * CGPA : -  
-2022 - 2023 ------------------> Johor Matriculation College
-                                * Sains Fizkal (Module 2)
-                                * CGPA : 3.92
+2022 - 2023 ------------------> Johor Matriculation College  
+                                * Sains Fizkal (Module 2)  
+                                * CGPA : 3.92  
 
 
 
