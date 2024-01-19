@@ -11,8 +11,12 @@ Passionate about computer science, I love diving into the fascinating world of a
  Age : 20   
  Date of Birth : 23/08/2004  
  Gender : Male  
+ Religion : Islam
  Nationality : Malaysia  
+ 
 ## Education
+2023 - 2027 <h1 align="center">Centered Heading</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mailqeru&label=Profile%20views&color=0e75b6&style=flat" alt="mailqeru" /> </p>
 
