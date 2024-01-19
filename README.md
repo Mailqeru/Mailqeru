@@ -15,7 +15,10 @@ Passionate about computer science, I love diving into the fascinating world of a
  Nationality : Malaysia  
  
 ## Education
-2023 - 2027 <h1 align="center">Centered Heading</h1>
+2023 - 2027 <p align="center">
+  Your centered text goes here.
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mailqeru&label=Profile%20views&color=0e75b6&style=flat" alt="mailqeru" /> </p>
