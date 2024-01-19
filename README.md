@@ -16,13 +16,13 @@ Passionate about computer science, I love diving into the fascinating world of a
  
 ## Education
 2023 - 2027  
-Universiti Teknologi Malaysia  
-* BACHELOR OF COMPUTER SCIENCE (GRAPHICS AND MULTIMEDIA SOFTWARE) WITH HONOURS  
+UNIVERSITI TEKNOLOGI MALAYSIA
+* Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours
 * CGPA : -
 
 2022 - 2023  
-Johor Matriculation College  
-* Sains Fizkal (Module 2)  
+JOHOR MATRICULATION COLLEGE 
+* Sains Fizikal (Module 2)  
 * CGPA : 3.92  
 
 
