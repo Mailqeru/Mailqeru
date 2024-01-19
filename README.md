@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ismail</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mailqeru&label=Profile%20views&color=0e75b6&style=flat" alt="mailqeru" /> </p>  
-Current Date: ![Current Date](https://badgen.net/badge/Date/now/green)
+
 
 Welcome to my Github ePortfolio!
 Passionate about computer science, I love diving into the fascinating world of algorithms and artificial intelligence. Exploring the endless possibilities, I'm on a journey to bring tech ideas to life and make a positive impact on our ever-evolving digital landscape. Let's chat about the exciting possibilities in the world of computer science!
