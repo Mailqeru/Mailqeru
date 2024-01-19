@@ -11,7 +11,7 @@ Passionate about computer science, I love diving into the fascinating world of a
  Age : 20   
  Date of Birth : 23/08/2004  
  Gender : Male  
- Religion : Islam
+ Religion : Islam  
  Nationality : Malaysia  
  
 ## Education
@@ -22,8 +22,13 @@ UNIVERSITI TEKNOLOGI MALAYSIA
 
 2022 - 2023  
 JOHOR MATRICULATION COLLEGE 
-* Sains Fizikal (Module 2)  
-* CGPA : 3.92  
+* Science (Module 2)  
+* CGPA : 3.92
+
+2017 - 2021  
+SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG  
+* Science Stream 
+* SPM : 2A+ 2A 1B+ 2B 1C+ 1C  
 
 
 
