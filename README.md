@@ -7,7 +7,7 @@ Welcome to my Github ePortfolio!
 Passionate about computer science, I love diving into the fascinating world of algorithms and artificial intelligence. Exploring the endless possibilities, I'm on a journey to bring tech ideas to life and make a positive impact on our ever-evolving digital landscape. Let's chat about the exciting possibilities in the world of computer science!
 
 ## About me !
-# Name : 
+### Name : 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mailqeru&label=Profile%20views&color=0e75b6&style=flat" alt="mailqeru" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mailqeru" alt="mailqeru" /></a> </p>
