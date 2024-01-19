@@ -8,6 +8,7 @@ Passionate about computer science, I love diving into the fascinating world of a
 
 ## About me !
 ### Name : 
+Ismail bin Esa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mailqeru&label=Profile%20views&color=0e75b6&style=flat" alt="mailqeru" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mailqeru" alt="mailqeru" /></a> </p>
