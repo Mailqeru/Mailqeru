@@ -47,7 +47,9 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
 * Kawad Kaki dan Perkhemahan Koreksional Peringkat Kebangsaan - 2018
 * Kawad Kaki dan Sentap Koreksional Peringkat Negeri - 2018
 * Pertandingan Mewarna Kreatif - 2017
-* Pertandingan Sajak - 2017  
+* Pertandingan Sajak - 2017
+![image](https://github.com/Mailqeru/Mailqeru/assets/148432122/6f6ddb12-8517-4aa7-b303-dc339a81784e)
+
 
 ## Skills  
 * Leaderships
