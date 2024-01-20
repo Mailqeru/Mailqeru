@@ -48,7 +48,8 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
 * Kawad Kaki dan Sentap Koreksional Peringkat Negeri - 2018
 * Pertandingan Mewarna Kreatif - 2017
 * Pertandingan Sajak - 2017
-![image](https://github.com/Mailqeru/Mailqeru/assets/148432122/6f6ddb12-8517-4aa7-b303-dc339a81784e)
+![image](https://github.com/Mailqeru/Mailqeru/assets/148432122/6f6ddb12-8517-4aa7-b303-dc339a81784e) ![image](https://github.com/Mailqeru/Mailqeru/assets/148432122/296a4cbf-8161-4fd0-a0e0-77d544a6dfdf)
+
 
 
 ## Skills  
@@ -62,7 +63,7 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
   - Proficient in Python, Java, and C++ for software development. 
 
 
-![student-mgmt](https://github.com/Mailqeru/Mailqeru/assets/148432122/dc9d46a4-9fff-40b2-a44a-387b554a442a) ![image](https://github.com/Mailqeru/Mailqeru/assets/148432122/49cacf00-1ba0-4c95-b0ba-268c5447e5d4)
+![student-mgmt](https://github.com/Mailqeru/Mailqeru/assets/148432122/dc9d46a4-9fff-40b2-a44a-387b554a442a) 
 
 
 
