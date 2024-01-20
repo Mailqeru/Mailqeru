@@ -62,7 +62,8 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
   - Proficient in Python, Java, and C++ for software development. 
 
 
-![student-mgmt](https://github.com/Mailqeru/Mailqeru/assets/148432122/dc9d46a4-9fff-40b2-a44a-387b554a442a)
+![student-mgmt](https://github.com/Mailqeru/Mailqeru/assets/148432122/dc9d46a4-9fff-40b2-a44a-387b554a442a) ![image](https://github.com/Mailqeru/Mailqeru/assets/148432122/49cacf00-1ba0-4c95-b0ba-268c5447e5d4)
+
 
 
 
