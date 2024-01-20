@@ -1,5 +1,6 @@
 
-![photo_2023-03-16_16-22-17-min](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/c5d9af5e-36d1-455f-ac73-b4a452a61fce)
+![maila](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/e8c4cc5b-f428-45ee-8f65-877e0ad53a70)
+
 
 
 
