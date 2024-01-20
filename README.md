@@ -96,7 +96,7 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
   - Operated cash registers and handled customer payments in a timely manner.
   - Maintained cleanliness and hygiene standards in the dining and kitchen areas.
   - Collaborated with team members to ensure smooth operations during peak hours.
-  - Food Safety and Handling Certificate.
+  - Food Safety and Handling Certificate.  
 ![46edc740ac190a4c4c97d815c2076d58](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/04a1a74b-544a-4f4a-ab82-c0ce407f7588)
 
 ![image](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/dde1eb9a-41c9-4d57-8fd0-caee500846e2)  
