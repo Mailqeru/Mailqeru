@@ -50,6 +50,14 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
 * Pertandingan Sajak - 2017  
 
 ## Skills  
+* Leaderships
+  - Led a cross-functional team to succesfully implement a new project, showcasing strong leadership and decision-making skills.
+* Time Management
+  - Strong time management skills, consistently meeting deadlines and priotizing tasks efficiently.
+* Problem Solving
+  - Proven ability to analyze complex problems and develop creative solutions, contributing to process improvements.
+* Programming
+  - Proficient in Python, Java, and C++ for software development. 
 
 
 ![student-mgmt](https://github.com/Mailqeru/Mailqeru/assets/148432122/dc9d46a4-9fff-40b2-a44a-387b554a442a)
