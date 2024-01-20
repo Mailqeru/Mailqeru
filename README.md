@@ -61,6 +61,8 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
   - Proven ability to analyze complex problems and develop creative solutions, contributing to process improvements.
 * Programming
   - Proficient in Python, Java, and C++ for software development. 
+![1324-c-code-language](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/ae003458-2cf1-46f0-87b5-2e3cb71a367a) ![1323-java-code-language](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/70a63187-7f8d-495f-ab47-caf0234063eb)
+
 
 
 ![student-mgmt](https://github.com/Mailqeru/Mailqeru/assets/148432122/dc9d46a4-9fff-40b2-a44a-387b554a442a) 
