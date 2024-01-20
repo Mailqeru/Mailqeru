@@ -19,6 +19,13 @@ Passionate about computer science, I love diving into the fascinating world of a
  Gender : Male  
  Religion : Islam  
  Nationality : Malaysia  
+
+ ## Connect With Me !  
+ :email: ismail04@graduate.utm.my  
+ Instagram : @mailqeru  
+ Facebook : Ismail Esa  
+ ![1-instagram](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/39e48c10-efa8-480c-b5af-d51f37306d63)
+
  
 ## Education
 2023 - 2027  
