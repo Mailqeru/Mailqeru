@@ -99,7 +99,10 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
   - Food Safety and Handling Certificate.
 ![46edc740ac190a4c4c97d815c2076d58](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/04a1a74b-544a-4f4a-ab82-c0ce407f7588)
 
-![image](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/dde1eb9a-41c9-4d57-8fd0-caee500846e2)
+![image](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/dde1eb9a-41c9-4d57-8fd0-caee500846e2)  
+## 
+If there's anything you'd like to know about me or if you have any questions whatsoever, please don't hesitate to ask. I'm here and more than willing to provide any information you might be curious about!  
+##  
 
 
 
