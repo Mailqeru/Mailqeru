@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Mailqeru/Mailqeru/blob/main/A23CS0086.JPG?raw=true" alt="Ismail">
+  ![image](https://github.com/Mailqeru/Mailqeru/assets/148432122/afe8595a-eab5-4f27-bb41-bc6a0e03c684)
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Ismail</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mailqeru&label=Profile%20views&color=0e75b6&style=flat" alt="mailqeru" /> </p>  
