@@ -1,6 +1,6 @@
-
-![maila](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/e8c4cc5b-f428-45ee-8f65-877e0ad53a70)
-
+<p align="center">
+   ![maila](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/e8c4cc5b-f428-45ee-8f65-877e0ad53a70)
+</p>
 
 
 
