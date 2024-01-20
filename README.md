@@ -24,7 +24,7 @@ Passionate about computer science, I love diving into the fascinating world of a
  :email: ismail04@graduate.utm.my  
  Instagram : @mailqeru  
  Facebook : Ismail Esa  
-![icegif-1042](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/8a297b2e-1504-41c7-9eb9-dd706c968ff3)
+
 
 
  
