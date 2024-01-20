@@ -80,7 +80,7 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
 
 ![student-mgmt](https://github.com/Mailqeru/Mailqeru/assets/148432122/dc9d46a4-9fff-40b2-a44a-387b554a442a)   
 
-## Working Experience  
+## Work Experience  
 * GrabFood Rider
   - Efficiently and safely delivered food orders to customers in a timely manner.
   - Managed and organized delivery schedules, optimizing routes for time efficiency.
@@ -91,8 +91,15 @@ SEKOLAH MENENGAH KEBANGSAAN SERI SEMBRONG
 
 ![image](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/97e484d0-09d2-4e29-b70d-5c37f82d6f97)
 
+* Mcdonald
+  - Provided outstanding customer service by taking and preparing orders with accuracy and efficiency.
+  - Operated cash registers and handled customer payments in a timely manner.
+  - Maintained cleanliness and hygiene standards in the dining and kitchen areas.
+  - Collaborated with team members to ensure smooth operations during peak hours.
+  - Food Safety and Handling Certificate.
+![46edc740ac190a4c4c97d815c2076d58](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/04a1a74b-544a-4f4a-ab82-c0ce407f7588)
 
-
+![image](https://github.com/Mailqeru/pc-assemble-TIS/assets/148432122/dde1eb9a-41c9-4d57-8fd0-caee500846e2)
 
 
 
